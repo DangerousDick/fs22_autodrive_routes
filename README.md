@@ -5,11 +5,11 @@ To use simply copy the required map file to the FS22 savegame folder (e.g. saveg
 
 Please Note:
 
-* These are routes I have created for my own use but have placed them here for others to use if they so wish. If they are not crated in a way you would like you don't have to use them.
+* These are routes I have created for my own use but have placed them here for others to use if they so wish. If they are not created in a way you would like you don't have to use them.
 
 * Some routes such as "The Green Valley" will need traffic turned of to avoid vehicle collisions.
 
 Enjoy :-)
 
-If you want an easy way to manage your nod folders then check out my mod file manager.
+If you want an easy way to manage your mod folders then check out my mod file manager.
 https://github.com/DangerousDick/FsModsManager/wiki
