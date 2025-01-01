@@ -1,7 +1,7 @@
 # farming_simulator_autodrive_routes
 Autodrive_config.xml files for farming simulator maps
 
-**NOTE: I have moved fs22 routes to the FS22 folder routes at the root level are for FS25**
+**NOTE: I have moved FS22 routes to the FS22 folder routes at the root level are for FS25**
 
 To use simply copy the required map file to the savegame folder (e.g. savegame1) and rename it to Autodrive_config.xml. If the file already exists in the folder rename the original first (e.g. orig_Autodrive_config.xml) that way you can roll back if you want to.
 
