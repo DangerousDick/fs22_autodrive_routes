@@ -1,4 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!-- Created by FarmaField 01-01-2025.
+     Download from https://github.com/DangerousDick/FS-Autodrive-Routes Please do not post this anywhere else.
+	 This is a work in progress as I find and fix issues I will update it. 
+	 It is recommended that you switch off AI traffic to avoid collisions -->
 <AutoDrive>
     <version>3.0.0.0</version>
     <MapName>Hutan_Pantai</MapName>
